@@ -1,0 +1,14 @@
+# Залежності (папка, яка створюється після npm install)
+node_modules/
+
+# Файли логів помилок
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Системні файли macOS та Windows
+.DS_Store
+Thumbs.db
+
+# Файли середовища (якщо будуть паролі чи ключі)
+.env
