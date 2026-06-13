@@ -1,4 +1,4 @@
-# JS Higher Order Functions (Variant 3)
+# (Variant 3)
 
 Набір утиліт для роботи з масивами об'єктів.
 
